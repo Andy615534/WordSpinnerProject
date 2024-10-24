@@ -1,3 +1,7 @@
+# HeeSeo Lee(1527190), Andy Jeon (u1528909)
+# https://github.com/UoU-UAC/a4-word-spinner-persona
+# https://github.com/Andy615534/WordSpinnerProject
+
 from Spinner import Spinner
 
 def process_text(file_path):
