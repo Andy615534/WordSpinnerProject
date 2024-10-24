@@ -1,3 +1,5 @@
+# HeeSeo Lee(1527190), Andy Jeon (u1528909)
+
 import random
 
 class Spinner:
